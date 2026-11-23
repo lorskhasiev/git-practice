@@ -1,1 +1,3 @@
 Hello git!
+
+-I changed this line with the "nano" command directly in bash. :) 
